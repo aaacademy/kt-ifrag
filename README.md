@@ -26,4 +26,6 @@ Sumber: [baca disini](https://www.codepolitan.com/membuat-dan-menggunakan-fragme
 ![Fragment](fragment.gif)
 
 ## Thanks to
+- [x] Allah
 - [x] [Sense Martin](https://github.com/martinputra) 🤗
+- [x] Sumber referensi (Dicoding - Codepolitan) 
