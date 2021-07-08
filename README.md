@@ -25,6 +25,9 @@ Sumber: [baca disini](https://www.codepolitan.com/membuat-dan-menggunakan-fragme
 ### Screen Shoot App
 ![Fragment](fragment.gif)
 
+## Materi
+Segera akan ditulis....
+
 ## Thanks to
 - [x] Allah
 - [x] [Sense Martin](https://github.com/martinputra) 🤗
