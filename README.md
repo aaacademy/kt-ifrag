@@ -10,7 +10,7 @@ Intent Explicit: Berfungsi melakukan perpindahan activity (halaman) ke activity 
 Sumber: [baca disini](https://www.dicoding.com/blog/belajar-intent-android-studio)
 
 ### Screen Shoot App
-![Intent](inten.gif)
+![Intent](intent.gif)
 
 ## Fragment
 Fragment adalah sebuah reuseable class yang mengimplement beberapa fitur sebuah Activity. Fragment biasanya dibuat sebagai bagian dari suatu antarmuka. Sebuah fragment harus berada di dalam sebuah activity, mereka tidak dapat berjalan sendiri tanpa adanya activity tempat mereka menempel.
