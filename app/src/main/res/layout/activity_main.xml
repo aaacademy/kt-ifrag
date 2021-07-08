@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_pindah_activity"
+        android:layout_marginBottom="16dp"
+        android:text="@string/pindah_tanpa_data" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_pindah_activity_dengan_data"
+        android:layout_marginBottom="16dp"
+        android:text="@string/pindah_dengan_data" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_telpon_aku"
+        android:layout_marginBottom="16dp"
+        android:text="@string/telpon_aku" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_kirim_obj"
+        android:layout_marginBottom="16dp"
+        android:text="@string/pindah_dengan_objek_kt" />
+
+</LinearLayout>

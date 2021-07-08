@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IFrag</string>
+    <string name="pindah_tanpa_data">Pindah Tanpa Data</string>
+    <string name="halo_sense">Halo Sense!, ini udah pindah dari main activity ke pindah activity</string>
+    <string name="pindah_dengan_data">Pindah Dengan Data</string>
+    <string name="halo_data_masuk">Halo, data masuk!</string>
+    <string name="telpon_aku">Telpon no aku yah cantik!</string>
+    <string name="pindah_dengan_objek_kt">Pindah dengan Objek KT</string>
+    <string name="nama">Nama</string>
+</resources>
